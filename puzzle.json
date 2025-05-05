@@ -15,9 +15,9 @@
   {
     "date": "2025-05-05",
     "puzzles": [
-      { "word": "MEDICAL", "clue": "A procedure a doctor may perform" },
-      { "word": "DECIMAL", "clue": "A system used by Dewey" },
-      { "word": "CLAIMED", "clue": "A prospector already staked a gold find" },
+      { "word": "MEDICAL", "clue": "2-A procedure a doctor may perform" },
+      { "word": "DECIMAL", "clue": "2-A system used by Dewey" },
+      { "word": "CLAIMED", "clue": "2-A prospector already staked a gold find" },
       { "word": "MILD",    "clue": "Weather that's neither hot nor cold" },
       { "word": "LID",     "clue": "A cover or a hat" },
       { "word": "IDLE",    "clue": "Sitting around doing nothing" },
