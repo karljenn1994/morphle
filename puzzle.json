@@ -2,27 +2,391 @@
   {
     "date": "2025-05-06",
     "puzzles": [
-      { "word": "MEDICAL", "clue": "A procedure a doctor may perform" },
-      { "word": "DECIMAL", "clue": "A system used by Dewey" },
-      { "word": "CLAIMED", "clue": "A prospector already staked a gold find" },
-      { "word": "MILD",    "clue": "Weather that's neither hot nor cold" },
-      { "word": "LID",     "clue": "A cover or a hat" },
-      { "word": "IDLE",    "clue": "Sitting around doing nothing" },
-      { "word": "DELIST",  "clue": "Remove from the market" },
-      { "word": "TIDES",   "clue": "Ebbs and flows" }
+      { "word": "PASTURE", "clue": "A field for grazing animals" },
+      { "word": "SPURT", "clue": "A sudden burst of speed" },
+      { "word": "PUT", "clue": "To place something in position" },
+      { "word": "UPTO", "clue": "To a certain point" },
+      { "word": "TROUPE", "clue": "A group of dancers" },
+      { "word": "POSTURE", "clue": "Position when standing or sitting" },
+      { "word": "ROUTES", "clue": "Directions of travel" },
+      { "word": "TOURS", "clue": "Journeys by bands and performers" }
     ]
   },
   {
     "date": "2025-05-07",
     "puzzles": [
-      { "word": "MEDICAL", "clue": "2-A procedure a doctor may perform" },
-      { "word": "DECIMAL", "clue": "2-A system used by Dewey" },
-      { "word": "CLAIMED", "clue": "2-A prospector already staked a gold find" },
-      { "word": "MILD",    "clue": "Weather that's neither hot nor cold" },
-      { "word": "LID",     "clue": "A cover or a hat" },
-      { "word": "IDLE",    "clue": "Sitting around doing nothing" },
-      { "word": "DELIST",  "clue": "Remove from the market" },
-      { "word": "TIDES",   "clue": "Ebbs and flows" }
+      { "word": "RETAINS", "clue": "Holds onto or keeps" },
+      { "word": "STAIN", "clue": "A mark that’s hard to remove" },
+      { "word": "TIN", "clue": "A metal for making cans" },
+      { "word": "NIT", "clue": "A small insect egg in hair" },
+      { "word": "TINS", "clue": "Multiple metal containers" },
+      { "word": "TRAIN", "clue": "A vehicle on rails" },
+      { "word": "STRAIN", "clue": "To exert or filter" },
+      { "word": "ARTISAN", "clue": "A skilled craftsperson" }
+    ]
+  },
+  {
+    "date": "2025-05-08",
+    "puzzles": [
+      { "word": "CANOERS", "clue": "People paddling on a lake" },
+      { "word": "SCORN", "clue": "Contempt or disdain" },
+      { "word": "CON", "clue": "To trick or deceive" },
+      { "word": "ORC", "clue": "A mythical beast in fantasy" },
+      { "word": "CORN", "clue": "A grain used for food" },
+      { "word": "SCONE", "clue": "A baked treat with tea" },
+      { "word": "CONE", "clue": "Used for holding ice cream" },
+      { "word": "ONE", "clue": "The loneliness number" }
+    ]
+  },
+  {
+    "date": "2025-05-09",
+    "puzzles": [
+      { "word": "MISTAKE", "clue": "An error or blunder" },
+      { "word": "STAKE", "clue": "A post or a bet" },
+      { "word": "ASK", "clue": "To request or inquire" },
+      { "word": "SKA", "clue": "A lively Jamaican music style" },
+      { "word": "TASK", "clue": "A job or assignment" },
+      { "word": "TACKS", "clue": "A small, sharp broad-headed nail" },
+      { "word": "STACKS", "clue": "Multiple chimneys on a building" },
+      { "word": "CASKETS", "clue": "Ornamental boxes placed in the ground" }
+    ]
+  },
+  {
+    "date": "2025-05-10",
+    "puzzles": [
+      { "word": "RATINGS", "clue": "Scores for shows or products" },
+      { "word": "GRANT", "clue": "A sum of money given" },
+      { "word": "RAG", "clue": "A tattered piece of cloth" },
+      { "word": "GAR", "clue": "A type of long-nosed fish" },
+      { "word": "RANG", "clue": "Made a bell sound" },
+      { "word": "GRAND", "clue": "Magnificent and imposing in appearance" },
+      { "word": "DANGER", "clue": "The possibility of suffering harm" },
+      { "word": "ANGERED", "clue": "Infuriated someone" }
+    ]
+  },
+  {
+    "date": "2025-05-11",
+    "puzzles": [
+      { "word": "FALTERS", "clue": "Hesitates or stumbles" },
+      { "word": "FALSE", "clue": "Not true or genuine" },
+      { "word": "LEAF", "clue": "An outgrowth from a plant stem" },
+      { "word": "ELF", "clue": "A mythical creature with pointy ears" },
+      { "word": "FLEA", "clue": "A small parasitic insect" },
+      { "word": "FERAL", "clue": "Escaped domestication and become wild" },
+      { "word": "FALTER", "clue": "To waver or lose strength" },
+      { "word": "ALERT", "clue": "A warning of a danger" }
+    ]
+  },
+  {
+    "date": "2025-05-12",
+    "puzzles": [
+      { "word": "DANCERS", "clue": "People performing choreography" },
+      { "word": "CRANES", "clue": "Birds or a lifting machines" },
+      { "word": "NARCS", "clue": "Officers who enforce drug laws" },
+      { "word": "CARS", "clue": "A vehicle for driving" },
+      { "word": "SCARS", "clue": "Healed wounds" },
+      { "word": "SPARS", "clue": "To fight using light blows" },
+      { "word": "PASS", "clue": "To go beyond or exceed" },
+      { "word": "SAP", "clue": "Liquid that circulates in a plant" }
+    ]
+  },
+  {
+    "date": "2025-05-13",
+    "puzzles": [
+      { "word": "SPLINTER", "clue": "Piece of wood that's broken off" },
+      { "word": "LINTERS", "clue": "Short fibers left on cotton after ginning" },
+      { "word": "INSERT", "clue": "To put in or between" },
+      { "word": "TINES", "clue": "Projecting points of a fork" },
+      { "word": "SINE", "clue": "The reciprocal of the cosecant" },
+      { "word": "SIN", "clue": "An offense against God" },
+      { "word": "INNS", "clue": "Pubs or small hotels" },
+      { "word": "NINES", "clue": "Elaborately dressed" }
+    ]
+  },
+  {
+    "date": "2025-05-14",
+    "puzzles": [
+      { "word": "STRANGER", "clue": "Someone you've never met" },
+      { "word": "GRANTER",  "clue": "Someone that provides consent" },
+      { "word": "RANGES",   "clue": "Move around without a destination" },
+      { "word": "NEARS",    "clue": "Close to reaching a point" },
+      { "word": "NEAR",     "clue": "Close to in distance" },
+      { "word": "ARE",      "clue": "Basic unit of land area in metric" },
+      { "word": "RATE",     "clue": "Assign a value to" },
+      { "word": "TRADE",    "clue": "Exchange of goods or services" }
+    ]
+  },
+  {
+    "date": "2025-05-15",
+    "puzzles": [
+      { "word": "READINGS", "clue": "Values shown by an instrument or gauge" },
+      { "word": "GARDENS", "clue": "Plots for growing plants" },
+      { "word": "LAD", "clue": "A young boy or youth" },
+      { "word": "DAL", "clue": "A lentil-based dish in India" },
+      { "word": "GLAD", "clue": "Feeling happy or pleased" },
+      { "word": "GLAND", "clue": "A body part like the thyroid" },
+      { "word": "DANGLE", "clue": "To hang loosely or swing" },
+      { "word": "GLADENS", "clue": "Makes joyful or brightens" }
     ]
   }
+  {
+    "date": "2025-05-16",
+    "puzzles": [
+      { "word": "TRAINED", "clue": "Skilled through practice" },
+      { "word": "DRAIN", "clue": "To remove liquid from" },
+      { "word": "AID", "clue": "Help or assistance" },
+      { "word": "DIN", "clue": "A loud, continuous noise" },
+      { "word": "DINE", "clue": "To eat a meal" },
+      { "word": "TRADE", "clue": "Exchange goods or services" },
+      { "word": "ARDENT", "clue": "Passionate or enthusiastic" },
+      { "word": "TREAD", "clue": "To step or walk on" }
+    ]
+  },
+  {
+    "date": "2025-05-17",
+    "puzzles": [
+      { "word": "SLOPING", "clue": "Slanting or tilting" },
+      { "word": "PING", "clue": "A sharp, high-pitched sound" },
+      { "word": "GIN", "clue": "A type of clear liquor" },
+      { "word": "PIG", "clue": "A farm animal known for mud" },
+      { "word": "PINS", "clue": "Small pointed fasteners" },
+      { "word": "SPIN", "clue": "To twirl or rotate" },
+      { "word": "POSING", "clue": "Striking a posture" },
+      { "word": "SLOPING", "clue": "Inclined, like a hill" }
+    ]
+  },
+  {
+    "date": "2025-05-18",
+    "puzzles": [
+      { "word": "CARTELS", "clue": "Groups controlling markets" },
+      { "word": "SCALP", "clue": "To remove the top layer" },
+      { "word": "CAP", "clue": "A hat or a lid" },
+      { "word": "PAC", "clue": "A political funding group" },
+      { "word": "CLAP", "clue": "To applaud with hands" },
+      { "word": "PLACE", "clue": "A location or spot" },
+      { "word": "PARCELS", "clue": "Packages for shipping" },
+      { "word": "SCARLET", "clue": "A bright red color" }
+    ]
+  },
+  {
+    "date": "2025-05-19",
+    "puzzles": [
+      { "word": "BUDGETS", "clue": "Plans for spending money" },
+      { "word": "DUST", "clue": "Fine particles on surfaces" },
+      { "word": "SUD", "clue": "Soapy foam or lather" },
+      { "word": "DUB", "clue": "To give a nickname" },
+      { "word": "BUDS", "clue": "Young flowers or shoots" },
+      { "word": "DEBUT", "clue": "A first public appearance" },
+      { "word": "SUBSIDE", "clue": "To settle or lessen" },
+      { "word": "BUDGET", "clue": "A financial plan" }
+    ]
+  },
+  {
+    "date": "2025-05-20",
+    "puzzles": [
+      { "word": "FARMING", "clue": "Growing crops or raising animals" },
+      { "word": "GRIM", "clue": "Stern or forbidding" },
+      { "word": "RIM", "clue": "The edge of a wheel" },
+      { "word": "MIR", "clue": "A Russian space station" },
+      { "word": "FIRM", "clue": "A business or steady grip" },
+      { "word": "GRIEF", "clue": "Deep sorrow or sadness" },
+      { "word": "FARMING", "clue": "Agricultural work" },
+      { "word": "FRAMING", "clue": "Constructing or enclosing" }
+    ]
+  },
+  {
+    "date": "2025-05-21",
+    "puzzles": [
+      { "word": "HINTERS", "clue": "Those who give subtle clues" },
+      { "word": "SHIRT", "clue": "A piece of clothing" },
+      { "word": "HIT", "clue": "To strike or impact" },
+      { "word": "TIN", "clue": "A metal for cans" },
+      { "word": "HINT", "clue": "A subtle suggestion" },
+      { "word": "THINS", "clue": "Makes less thick" },
+      { "word": "INSERT", "clue": "To place inside" },
+      { "word": "HINTERS", "clue": "People dropping hints" }
+    ]
+  },
+  {
+    "date": "2025-05-22",
+    "puzzles": [
+      { "word": "WELDERS", "clue": "Workers who join metals" },
+      { "word": "SLEW", "clue": "A large number or to turn" },
+      { "word": "SEW", "clue": "To stitch with a needle" },
+      { "word": "WES", "clue": "A nickname for Wesley" },
+      { "word": "WEED", "clue": "An unwanted plant" },
+      { "word": "SWEDE", "clue": "A person from Sweden" },
+      { "word": "WELDERS", "clue": "Metal-fusing craftsmen" },
+      { "word": "WRESTLE", "clue": "To grapple or fight" }
+    ]
+  },
+  {
+    "date": "2025-05-23",
+    "puzzles": [
+      { "word": "KINDLES", "clue": "Ignites or starts a fire" },
+      { "word": "SINK", "clue": "To go below the surface" },
+      { "word": "INK", "clue": "Liquid used for writing" },
+      { "word": "KIN", "clue": "Family or relatives" },
+      { "word": "LINK", "clue": "A connection or chain part" },
+      { "word": "SLINK", "clue": "To move stealthily" },
+      { "word": "KINDLE", "clue": "To spark or inspire" },
+      { "word": "SNIDELY", "clue": "In a mocking or sly way" }
+    ]
+  },
+  {
+    "date": "2025-05-24",
+    "puzzles": [
+      { "word": "VOTINGS", "clue": "Acts of casting ballots" },
+      { "word": "SIGN", "clue": "A symbol or indication" },
+      { "word": "GIN", "clue": "A clear alcoholic spirit" },
+      { "word": "NOG", "clue": "A holiday drink like eggnog" },
+      { "word": "SONG", "clue": "A musical composition" },
+      { "word": "STING", "clue": "A sharp pain or wound" },
+      { "word": "VOTING", "clue": "Choosing in an election" },
+      { "word": "STONING", "clue": "Throwing rocks as punishment" }
+    ]
+  },
+  {
+    "date": "2025-05-25",
+    "puzzles": [
+      { "word": "CAMPERS", "clue": "People staying in tents" },
+      { "word": "CRAMP", "clue": "A painful muscle contraction" },
+      { "word": "MAP", "clue": "A diagram of an area" },
+      { "word": "PAM", "clue": "A nickname for Pamela" },
+      { "word": "RAMP", "clue": "A sloped path or walkway" },
+      { "word": "SCRAM", "clue": "To leave quickly" },
+      { "word": "SCREAM", "clue": "A loud cry of fear" },
+      { "word": "CAMPERS", "clue": "Outdoor enthusiasts" }
+    ]
+  },
+  {
+    "date": "2025-05-26",
+    "puzzles": [
+      { "word": "BRIDGES", "clue": "Structures over rivers" },
+      { "word": "GRID", "clue": "A network of lines" },
+      { "word": "DIG", "clue": "To break up soil" },
+      { "word": "GID", "clue": "A disease in livestock" },
+      { "word": "RIDGE", "clue": "A long, narrow hill" },
+      { "word": "BRIDE", "clue": "A woman on her wedding day" },
+      { "word": "BRIDGES", "clue": "Connects two sides" },
+      { "word": "BUDDIES", "clue": "Close friends or pals" }
+    ]
+  },
+  {
+    "date": "2025-05-27",
+    "puzzles": [
+      { "word": "FOLDERS", "clue": "Holders for papers" },
+      { "word": "LOAF", "clue": "A shaped mass of bread" },
+      { "word": "FOE", "clue": "An enemy or opponent" },
+      { "word": "ELF", "clue": "A mythical small creature" },
+      { "word": "FOLD", "clue": "To bend or crease" },
+      { "word": "FLOES", "clue": "Floating sheets of ice" },
+      { "word": "FOLDER", "clue": "A file organizer" },
+      { "word": "FROLICS", "clue": "Playful or lively antics" }
+    ]
+  },
+  {
+    "date": "2025-05-28",
+    "puzzles": [
+      { "word": "HUNTING", "clue": "Pursuing game or prey" },
+      { "word": "THIN", "clue": "Slim or not thick" },
+      { "word": "HIT", "clue": "To strike something" },
+      { "word": "NUT", "clue": "A seed or a crazy person" },
+      { "word": "HUNT", "clue": "To chase or search" },
+      { "word": "THING", "clue": "An object or concept" },
+      { "word": "HINTING", "clue": "Suggesting indirectly" },
+      { "word": "HUNTING", "clue": "Tracking animals" }
+    ]
+  },
+  {
+    "date": "2025-05-29",
+    "puzzles": [
+      { "word": "MARKETS", "clue": "Places for buying and selling" },
+      { "word": "TASK", "clue": "A job or duty" },
+      { "word": "ASK", "clue": "To question or request" },
+      { "word": "SKA", "clue": "A Jamaican music genre" },
+      { "word": "MASK", "clue": "A face covering" },
+      { "word": "STARK", "clue": "Bare or harsh in appearance" },
+      { "word": "MARKET", "clue": "A trading venue" },
+      { "word": "STREAM", "clue": "A small flowing river" }
+    ]
+  },
+  {
+    "date": "2025-05-30",
+    "puzzles": [
+      { "word": "PENSIVE", "clue": "Deeply thoughtful or dreamy" },
+      { "word": "SPIN", "clue": "To rotate or twist" },
+      { "word": "PIN", "clue": "A small fastening device" },
+      { "word": "SIP", "clue": "A small drink" },
+      { "word": "PINS", "clue": "Multiple fasteners" },
+      { "word": "SNIP", "clue": "To cut with small clips" },
+      { "word": "SPINES", "clue": "Backbones or sharp points" },
+      { "word": "PENSIVE", "clue": "Lost in thought" }
+    ]
+  },
+  {
+    "date": "2025-05-31",
+    "puzzles": [
+      { "word": "RANTING", "clue": "Speaking loudly and angrily" },
+      { "word": "GRIN", "clue": "A wide smile" },
+      { "word": "RIG", "clue": "To set up or manipulate" },
+      { "word": "GIN", "clue": "A distilled alcoholic drink" },
+      { "word": "RING", "clue": "A circular band or sound" },
+      { "word": "TING", "clue": "A light ringing sound" },
+      { "word": "GRANT", "clue": "To give or award" },
+      { "word": "TRACING", "clue": "Following a path or outline" }
+    ]
+  },
+  {
+    "date": "2025-06-01",
+    "puzzles": [
+      { "word": "SCOUTED", "clue": "Explored or searched for talent" },
+      { "word": "DUST", "clue": "Fine particles on furniture" },
+      { "word": "SUD", "clue": "Bubbles from soap" },
+      { "word": "OUT", "clue": "Not in or eliminated" },
+      { "word": "TOUS", "clue": "Disheveled or messy (French)" },
+      { "word": "STOUT", "clue": "Strong or a dark beer" },
+      { "word": "CUSTOD", "clue": "A guardian or caretaker (short form)" },
+      { "word": "EDUCT", "clue": "Something drawn out or inferred" }
+    ]
+  },
+  {
+    "date": "2025-06-02",
+    "puzzles": [
+      { "word": "LAMBENT", "clue": "Softly glowing or radiant" },
+      { "word": "MEAL", "clue": "Food served at one time" },
+      { "word": "ELM", "clue": "A type of shade tree" },
+      { "word": "MEL", "clue": "A nickname for Melvin" },
+      { "word": "LAME", "clue": "Unable to walk properly" },
+      { "word": "BLAME", "clue": "To hold responsible" },
+      { "word": "LAMBENT", "clue": "Flickering with soft light" },
+      { "word": "BELTMAN", "clue": "A worker on a conveyor system" }
+    ]
+  },
+  {
+    "date": "2025-06-03",
+    "puzzles": [
+      { "word": "GIFTED", "clue": "Having exceptional talent" },
+      { "word": "EDIT", "clue": "To revise or correct" },
+      { "word": "TIE", "clue": "A neckwear or a draw" },
+      { "word": "FIT", "clue": "To be suitable or healthy" },
+      { "word": "DEFT", "clue": "Skillful or nimble" },
+      { "word": "FATED", "clue": "Destined or inevitable" },
+      { "word": "GIFTED", "clue": "Naturally talented" },
+      { "word": "FIDGET", "clue": "To move restlessly" }
+    ]
+  },
+  {
+    "date": "2025-06-04",
+    "puzzles": [
+      { "word": "WANDERS", "clue": "Roams or strays aimlessly" },
+      { "word": "DRAW", "clue": "To sketch or pull" },
+      { "word": "RAW", "clue": "Uncooked or unprocessed" },
+      { "word": "WAR", "clue": "A state of conflict" },
+      { "word": "WARD", "clue": "A division or to guard" },
+      { "word": "DAWN", "clue": "The start of the day" },
+      { "word": "WANDER", "clue": "To travel without a plan" },
+      { "word": "WARDENS", "clue": "Guardians or overseers" }
+    ]
+  }  
 ]
