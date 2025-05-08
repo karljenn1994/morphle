@@ -121,12 +121,12 @@
     "puzzles": [
       { "word": "READINGS", "clue": "Values shown by an instrument or gauge" },
       { "word": "GARDENS", "clue": "Plots for growing plants" },
-      { "word": "LAD", "clue": "A young boy or youth" },
-      { "word": "DAL", "clue": "A lentil-based dish in India" },
-      { "word": "GLAD", "clue": "Feeling happy or pleased" },
-      { "word": "GLAND", "clue": "A body part like the thyroid" },
-      { "word": "DANGLE", "clue": "To hang loosely or swing" },
-      { "word": "GLADENS", "clue": "Makes joyful or brightens" }
+      { "word": "DANGER", "clue": "Possibility of harm or loss" },
+      { "word": "ANGER", "clue": "Strong feeling of displeasure" },
+      { "word": "AREA", "clue": "A geographical region" },
+      { "word": "RARE", "clue": "Not frequently encountered" },
+      { "word": "BARER", "clue": "Having less covering" },
+      { "word": "BARBER", "clue": "A person who cuts hair" }
     ]
   },
   {
@@ -134,44 +134,44 @@
     "puzzles": [
       { "word": "TRAINED", "clue": "Skilled through practice" },
       { "word": "DRAIN", "clue": "To remove liquid from" },
-      { "word": "AID", "clue": "Help or assistance" },
-      { "word": "DIN", "clue": "A loud, continuous noise" },
-      { "word": "DINE", "clue": "To eat a meal" },
-      { "word": "TRADE", "clue": "Exchange goods or services" },
-      { "word": "ARDENT", "clue": "Passionate or enthusiastic" },
-      { "word": "TREAD", "clue": "To step or walk on" }
+      { "word": "RAID", "clue": "Help or assistance" },
+      { "word": "AIR", "clue": "A mixture of gases we breathe" },
+      { "word": "AI", "clue": "Machines that work in an intelligent way" },
+      { "word": "AMI", "clue": "A male friend in french" },
+      { "word": "MAIL", "clue": "letters delivered to you" },
+      { "word": "LAMIA", "clue": "In mythology, a vampiric serpent‐woman" }
     ]
   },
   {
     "date": "2025-05-17",
     "puzzles": [
+      { "word": "SPOOLING", "clue": "Winding thread or cable onto a reel" },
       { "word": "SLOPING", "clue": "Slanting or tilting" },
-      { "word": "PING", "clue": "A sharp, high-pitched sound" },
+      { "word": "POSING", "clue": "Assuming a posture" },
+      { "word": "PINGS", "clue": "Network packets or little taps" },
+      { "word": "SIGN", "clue": "Mark or symbol conveying information" },
       { "word": "GIN", "clue": "A type of clear liquor" },
-      { "word": "PIG", "clue": "A farm animal known for mud" },
-      { "word": "PINS", "clue": "Small pointed fasteners" },
-      { "word": "SPIN", "clue": "To twirl or rotate" },
-      { "word": "POSING", "clue": "Striking a posture" },
-      { "word": "SLOPING", "clue": "Inclined, like a hill" }
+      { "word": "GAIN", "clue": "to obtain or increase" },
+      { "word": "ALIGN", "clue": "Line up or arrange in a straight line" }
     ]
   },
   {
     "date": "2025-05-18",
     "puzzles": [
-      { "word": "CARTELS", "clue": "Groups controlling markets" },
+      { "word": "SCALPEL", "clue": "A small surgical knife" },
+      { "word": "PLACES", "clue": "Locations or spots" },
       { "word": "SCALP", "clue": "To remove the top layer" },
-      { "word": "CAP", "clue": "A hat or a lid" },
-      { "word": "PAC", "clue": "A political funding group" },
       { "word": "CLAP", "clue": "To applaud with hands" },
-      { "word": "PLACE", "clue": "A location or spot" },
-      { "word": "PARCELS", "clue": "Packages for shipping" },
-      { "word": "SCARLET", "clue": "A bright red color" }
+      { "word": "CAP", "clue": "A hat or a lid" },
+      { "word": "CAMP", "clue": "A temporary shelter" },
+      { "word": "CHAMP", "clue": "A winner; or to chew eagerly" },
+      { "word": "CHAP", "clue": "A fellow or lad" }
     ]
   },
   {
     "date": "2025-05-19",
     "puzzles": [
-      { "word": "BUDGETS", "clue": "Plans for spending money" },
+      { "word": "BUDGETS", "clue": "********Plans for spending money" },
       { "word": "DUST", "clue": "Fine particles on surfaces" },
       { "word": "SUD", "clue": "Soapy foam or lather" },
       { "word": "DUB", "clue": "To give a nickname" },
